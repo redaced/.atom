@@ -1,0 +1,18 @@
+"*":
+  "exception-reporting":
+    userId: "02767ade-8011-cf1b-82d5-ae801efef526"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 13
+    tabLength: 4
+    backUpBeforeSaving: true
+  "vim-mode": {}
+  minimap: {}
+  "atom-autocomplete-php": {}
